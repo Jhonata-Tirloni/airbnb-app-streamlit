@@ -1,5 +1,5 @@
 <p align="center">
-<strong>ATTENTION: THIS IS JUST THE STREAMLIT APP!</strong>
+<strong>ATTENTION: THIS IS JUST THE STREAMLIT APP!</strong><br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Airbnb_Logo_B%C3%A9lo.svg/2560px-Airbnb_Logo_B%C3%A9lo.svg.png" width="250" title="AIRBNB - Análise exploratória de quartos no RJ"/>
 </p>
 <h1 align="center"><strong>Airbnb on Rio de Janeiro</strong></h1>
